@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO403: Biotechnology"
+course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Emerging Biotechnology Fields** <span id="10"></span> 
 *Our last unit looks at some emerging areas of biotechnology. 
 Immune-based biotechnology, for example, utilizes our highly
