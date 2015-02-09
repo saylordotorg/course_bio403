@@ -1,10 +1,3 @@
----
-layout: default
-title: "BIO403: Biotechnology"
-course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
-next: ../Unit05
-previous: ../Unit03
----
 **Unit 4: Protein Engineering and Proteomics** <span id="4"></span> 
 *A proteome is the collection of all proteins expressed by a genome, and
 proteomics analyzes the proteome.  Proteins serve almost every purpose
