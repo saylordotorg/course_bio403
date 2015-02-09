@@ -1,10 +1,3 @@
----
-layout: default
-title: "BIO403: Biotechnology"
-course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
-next: ../Unit10
-previous: ../Unit08
----
 **Unit 9: Environmental Biotechnology and Renewable Energy** <span
 id="9"></span> 
 *This unit focuses on the biotechnology to help clean our environment,
