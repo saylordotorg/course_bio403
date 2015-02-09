@@ -1,10 +1,3 @@
----
-layout: default
-title: "BIO403: Biotechnology"
-course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
-next: ../Unit07
-previous: ../Unit05
----
 **Unit 6: Genetic Engineering of Animals** <span id="6"></span> 
 *Just as biotechnology has given rise to genetically engineered plants,
 it has also applied many of the same techniques and knowledge to
