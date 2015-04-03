@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO403: Biotechnology"
+course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Advanced Nucleic Acid Technologies** <span id="2"></span> 
 *This unit will discuss advanced nucleic acid technologies.  For
 example, methods to visualize DNA and cloning vectors are used in
