@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO403: Biotechnology"
+course_description: "A detailed introduction to the use of numerous methods and biological techniques such as FISH, RNAi, PCR, Western blotting, microarrays, and others to enhance scientific research, medicine, and engineering. Particular emphasis on how biotechnology and its techniques can be used in plant and animal engineering, gene therapy, forensic science, environmental studies, and renewable energy."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Forensic Biotechnology and Biometrics** <span id="8"></span> 
 *One of the practical applications of genomics and DNA technology has
 been its impact in security and the legal system.  Because every human
