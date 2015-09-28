@@ -186,3 +186,4 @@ review as you study for your Final Exam.
 - [Unit 9](https://legacy.saylor.org/bio403/Unit09/)
 - [Unit 10](https://legacy.saylor.org/bio403/Unit10/)
 - [Unit 11](https://legacy.saylor.org/bio403/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/BIO/BIO403/BIO403-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/BIO/BIO403/BIO403-FinalExam-Answers.html)
