@@ -433,7 +433,7 @@ Upon successful completion of this unit, the student will be able to:
 **9.8.1 Bioalcohols** <span id="9.8.1"></span> 
 -   **Reading: Wikipedia’s “Alcohol Fuel”**
     Link: Wikipedia’s “[Alcohol
-    Fuel](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Alcohol-Fuel.pdf)”
+    Fuel](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Alcohol-Fuel.pdf)”
     (PDF)  
         
      Instructions: Please study this page.  Please note that not all

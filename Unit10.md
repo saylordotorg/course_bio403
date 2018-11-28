@@ -38,7 +38,7 @@ Upon successful completion of this unit, the student will be able to:
 **10.1.1 The Nanometer Scale** <span id="10.1.1"></span> 
 -   **Reading: Wikipedia’s “Nanobiotechnology”**
     Link: Wikipedia’s
-    “[Nanobiotechnology](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Nanobiotechnology.pdf)”
+    “[Nanobiotechnology](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Nanobiotechnology.pdf)”
     (PDF)  
         
      Instructions: Please study the content of this page.  
@@ -336,7 +336,7 @@ id="10.5.1"></span> 
 **10.6 Synthetic Genomics** <span id="10.6"></span> 
 -   **Reading: Wikipedia’s “Mycoplasma Laboratorium”**
     Link: Wikipedia’s *“[Mycoplasma
-    Laboratorium](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Mycoplasma-laboratorium.pdf)”*
+    Laboratorium](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Mycoplasma-laboratorium.pdf)”*
     (PDF)  
         
      Instructions: Please study the content of this page.  

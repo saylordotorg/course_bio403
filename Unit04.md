@@ -185,7 +185,7 @@ id="4.2.1"></span> 
 **4.3.1 Edman Degradation** <span id="4.3.1"></span> 
 -   **Reading: Wikibooks’ “Protein Primary Structure”**
     Link: Wikibooks’ “[Protein Primary
-    Structure](https://resources.saylor.org/archived/wp-content/uploads/2011/06/Protein-Primary-Structure.pdf)”
+    Structure](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/Protein-Primary-Structure.pdf)”
     (PDF)  
         
      Instructions: Please learn the “Edman Degradation” section on this
